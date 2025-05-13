@@ -1,0 +1,24 @@
+h1{
+    font-weight: bold;
+    color: black;
+    text-align: center; 
+}
+body {
+    background-color: red
+}
+p {color: rgb(rgb(34, 0, 0));
+    text-align: center;
+}
+
+#bilder{
+    position: relative;
+    text-align: center;
+}
+.links{
+    position: fixed;
+    text-align: center;
+    color: blue;
+}
+.links2{
+    color: blueviolet;
+}

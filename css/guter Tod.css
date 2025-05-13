@@ -1,0 +1,36 @@
+h1{
+    font-weight: bold;
+    color: rgb(17, 0, 255);
+    text-align: center; 
+}
+body {
+    background-color: rgb(255, 136, 0)
+}
+
+#unterschrift {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-weight: bold;
+}
+
+#unterschrift2 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-weight: bold;
+}
+
+
+p {color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#bilder{
+    position: relative;
+    text-align: center;
+}
+.links{
+    color: rgb(0, 0, 0);
+}
+.links2{
+    color: rgb(0, 0, 0);
+}
